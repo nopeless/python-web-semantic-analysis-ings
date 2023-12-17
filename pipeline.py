@@ -182,10 +182,6 @@ def pipeline_sentimental_analysis():
         print(f"Completed {filename}")
 
 
-def pipeline_aggregate():
-    ...
-
-
 # Write all searches to file
 # pipeline_purge()
 # pipeline_search()
