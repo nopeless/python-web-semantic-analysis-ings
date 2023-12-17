@@ -168,22 +168,27 @@ def get_site_bias(x, q):
         return 1
 
 
-plot_line_charts(
-    process_json_files(DIRECTORY),
-    lambda d: "straw" in d.query,
-    "straw",
-    get_site_bias,
-)
-plot_line_charts(
-    process_json_files(DIRECTORY),
-    lambda d: "pollution" in d.query,
-    "pollution",
-    get_site_bias,
-)
+def main():
+    plot_line_charts(
+        process_json_files(DIRECTORY),
+        lambda d: "straw" in d.query,
+        "straw",
+        get_site_bias,
+    )
+    plot_line_charts(
+        process_json_files(DIRECTORY),
+        lambda d: "pollution" in d.query,
+        "pollution",
+        get_site_bias,
+    )
 
-plot_line_charts(
-    process_json_files(DIRECTORY),
-    lambda d: True,
-    "everything",
-    get_site_bias,
-)
+    plot_line_charts(
+        process_json_files(DIRECTORY),
+        lambda d: True,
+        "everything",
+        get_site_bias,
+    )
+
+
+if __name__ == "__main__":
+    main()
