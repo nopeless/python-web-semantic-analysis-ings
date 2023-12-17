@@ -1,0 +1,11 @@
+{
+  "query": "plastic straws",
+  "site": "reddit.com",
+  "time_range": "2017-06-29..2017-12-28",
+  "title": "Fluid pressure problems : r/AskPhysics - Reddit",
+  "href": "https://www.reddit.com/r/AskPhysics/comments/7bpnfb/fluid_pressure_problems/",
+  "body": "A student places their finger over the top opening of the straw and lifts the straw vertically a distance d with the water in the straw staying in the straw. a. Enter an expression for the difference in pressure \u0394P = PB - PA between points B and A of the water, in terms of d, the density of the water, \u03c1, and the acceleration due to gravity, g",
+  "readable_content": "- ltgenspartan (2017-12-08): Fluid pressure problems\n\nTitle correction 1 problem, not multiple.\n\nA drinking straw is placed in a glass of water. A student places their finger over the top opening of the straw and lifts the straw vertically a distance d with the water in the straw staying in the straw.\n\na. Enter an expression for the difference in pressure \u0394P = PB - PA between points B and A of the water, in terms of d, the density of the water, \u03c1, and the acceleration due to gravity, g.\n\nI have tried entering qgh, as \u03c1 really shouldn't matter, as I've done this many times as a kid with soda, so it would make sense to me that it doesn't matter what the fluid is, but am otherwise stumped.\n\n- Nerull (2017-12-08): Density absolutely matters. A straw full of water and a straw full of mercury will produce very different results. You've probably heard pressure expressed in inches of mercury at some point - there's a reason they specify the fluid.",
+  "summary": null,
+  "sentiment": null
+}

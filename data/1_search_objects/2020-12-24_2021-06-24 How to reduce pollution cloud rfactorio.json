@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2020-12-24..2021-06-24",
+  "title": "How to reduce pollution cloud : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/nklluc/how_to_reduce_pollution_cloud/",
+  "body": "To reduce your cloud make sure to: convert all miners from Burner miner -> electric miner -> electric miner with eff 1. Convert all furnaces to steel furnace, then to electric furnace with eff 1. For any burner fuel you do use, light oil solid fuel is better than coal. Upgrading your assembly machines to the highest tier available and adding ..."
+}

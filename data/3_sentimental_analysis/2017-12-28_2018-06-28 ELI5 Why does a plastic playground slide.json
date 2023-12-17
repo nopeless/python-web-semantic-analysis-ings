@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2017-12-28..2018-06-28",
+  "title": "ELI5: Why does a plastic playground slide build up static electricity ...",
+  "href": "https://www.reddit.com/r/explainlikeimfive/comments/8oe4he/eli5_why_does_a_plastic_playground_slide_build_up/",
+  "body": "The plastic of the slides (and other, non-conductive materials) tend to build up spare electrons just from the air currents moving over them, so its not really the sun that makes them collect charge. As the air around the plastic heats up, it loses its density and humidity, meaning that electrons that were sitting on or close to the plastic get ...",
+  "readable_content": "jasonrohrer (2018-06-04): ELI5: Why does a plastic playground slide build up static electricity when it is hit by sunlight?\nPhysics\n\nThe same effect can be observed on other non-conductive, polymer surfaces like the mesh of a trampoline. If it is sitting in the sun for a while, you can feel the static charge on it when you approach it, even if no one has been on it recently (so it's not just from friction of users' clothing).\n\nStryker295 (2018-06-04): From what I understand with trampolines, the direct sunlight causes thermal expansion, which causes the fibers to stretch, shift, and in some cases tighten, causing continuous amounts of friction amongst the layers of material.\n\nKromCruach (2018-06-04): ipanpan has a good start.\n\nThere are always stray electrons flying around, everywhere. The plastic of the slides (and other, non-conductive materials) tend to build up spare electrons just from the air currents moving over them, so its not really the sun that makes them collect charge. As the air around the plastic heats up, it loses its density and humidity, meaning that electrons that were sitting on or close to the plastic get stuck there. Air flowing over the plastic deposit more electrons. As the air cools after the sun goes down (or if it gets cloudy enough), the air around the plastic becomes more dense and can hold more humidity, which means that the electrons can be carried away by stray ions faster, and the amount of excess charge decreases.\n\n- 3 more replies",
+  "summary": null,
+  "sentiment": null
+}

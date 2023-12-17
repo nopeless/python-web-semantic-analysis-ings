@@ -1,0 +1,8 @@
+{
+  "query": "plastic straws",
+  "site": "reddit.com",
+  "time_range": "2015-07-02..2015-12-31",
+  "title": "SpookyKins (u/SpookyKins) - Reddit",
+  "href": "https://www.reddit.com/user/SpookyKins/",
+  "body": "Trying to find the next date closest to today in a row of dates. =TODAY ()+MAX (C2-TODAY (),E2-TODAY (),G2-TODAY ()) I hit a road block with this, it only gives me the furthest date after today. What I was looking for was the closest future date to today (for example if I have Feb 1, 2019 listed AND April 15, 2019 it will list April for me, but ..."
+}

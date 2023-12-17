@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-01-01..2015-07-02",
+  "title": "A small guide on how to prevent buildings becoming abandoned",
+  "href": "https://www.reddit.com/r/CitiesSkylines/comments/2z1maa/a_small_guide_on_how_to_prevent_buildings/",
+  "body": "When the land value increases of a residential zone, buildings start to level up. When the value drops due to pollution or noise it can become lower then the required land value for that level. People will then start to complain about land value and eventually leave. To fix this, simply delete the house complaining about land value."
+}

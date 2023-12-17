@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": null,
+  "time_range": "2015-12-31..2016-06-30",
+  "title": "Will there be more fish or plastic in the sea in 2050? - BBC News",
+  "href": "https://www.bbc.com/news/magazine-35562253",
+  "body": "BBC News A recent claim that there will be more plastic than fish in the sea by 2050 was intended to highlight a pollution crisis in the oceans. The problem really does exist, but do the...",
+  "readable_content": "- BBC Homepage (2023-12-08): A recent claim suggesting there will be more plastic than fish in the sea by 2050 has garnered attention, but there are questions about the accuracy of the figures and the methodologies used. The Ellen MacArthur Foundation and the World Economic Forum made the prediction in a report called The New Plastics Economy, utilizing data from studies on plastic pollution and fish populations. However, challenges in precisely measuring and projecting these figures raise doubts about the accuracy of the claim. The estimation of future plastic and fish quantities and the methods used to arrive at these predictions are subjects of uncertainty. This raises concerns about the impact of plastic pollution in the oceans and the need for effective solutions to address this growing environmental problem.",
+  "summary": "The text presents a balanced view of the claim regarding the abundance of plastic in the sea by 2050, highlighting the uncertainties in the data and methodologies used. It emphasizes the need for effective solutions to address plastic pollution. Overall, the sentiment is pragmatic and concerned about the environmental impact of plastic in the oceans.\n\nSentiment: 0.5",
+  "sentiment": 0.5
+}

@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2019-06-27..2019-12-26",
+  "title": "Integrating Panel Mount Components into a PCB - Reddit",
+  "href": "https://www.reddit.com/r/PrintedCircuitBoard/comments/d9v8uq/integrating_panel_mount_components_into_a_pcb/",
+  "body": "Hi folks. I am a PCB newbie and am looking for some guidance on integrating panel mount components into a PCB circuit. I understand how through hole components work on a breadboard/stripboard, and how SMD components work on a PCB, but I am a little fuzzy on how panel mount components or through hole components get assembled into a PCB."
+}

@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2017-06-29..2017-12-28",
+  "title": "Guide for a Low-Effort LTN User : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/73xyd5/guide_for_a_loweffort_ltn_user/",
+  "body": "Connect the input of each arithmetic combinator to the constant combinator from step #1 using one color of wire, and connect each input to the LTN constant combinator using the other color of wire. Place an inserter to load each locomotive/wagon spot at a train station, and connect each one to the arithmetic combinator for that station."
+}

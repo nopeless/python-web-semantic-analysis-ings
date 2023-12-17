@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2022-06-23..2022-12-22",
+  "title": "Efficiency modules reduce pollution absorption : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/wmesnj/efficiency_modules_reduce_pollution_absorption/",
+  "body": "If you can put speed modules into them then they absorb a lot more pollution though. It works a little backwards, we have these greenhouses from K2 that absorb pollution from atmosphere instead of generating it by 5/m. When you add 2 Eff 1 modules it goes \"up\" to -0.8 absorbed, instead of increasing."
+}

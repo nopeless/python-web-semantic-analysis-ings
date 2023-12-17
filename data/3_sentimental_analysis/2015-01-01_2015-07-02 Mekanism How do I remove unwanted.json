@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-01-01..2015-07-02",
+  "title": "Mekanism - How do I remove unwanted gas/fluid from a machine?",
+  "href": "https://www.reddit.com/r/feedthebeast/comments/37bage/mekanism_how_do_i_remove_unwanted_gasfluid_from_a/",
+  "body": "The usage looks like the following (just copied from Mekanism Wiki) \". Open the machine's GUI and pick up the gauge dropper as you would if you where moving it to a different inventory slot. Hover over the gauge you wish to interact with, and then do one of the following: Left Click: Will collect up to 1000mB of the gas/fluid and store it in ...",
+  "readable_content": "- ratsta (2023-12-08): Mekanism - How do I remove unwanted gas/fluid from a machine?\n  Poor piping resulted in my Pressurized Reaction Chamber filling up with water and Oxygen. I don't want it there! How do I get it out? Breaking the block by pick or wrench retains the settings. Attaching pipes and tanks doesn't seem to have any effect. Even tried putting a tank inside the GUI. Any tips?\n\n  - MushroomDynamo (2023-12-08):\n    If you're running v8, there's a pipette-like item you can use to empty tanks. I forget exactly what it's called though :y\n\n    Reply\n\n  - ratsta (2023-12-08):\n    Cool, it's called a Gauge Dropper and it worked, thanks.\n    What a pain in the bum to have to manually empty the tank a bucket at a time though!\n\n    Reply\n\n  - Lampad1na (2023-12-08):\n    It's past a lot of time since I used Mekanism, but I remember that in almost every machine there is a dump button, you just click it and wait. In alternative you can pipe gases/fluids into Mekanism tanks (containers?) and then pipe the tank back in the right place.\n\n    - ratsta (2023-12-08):\n      Thanks for the reply. Some machines have a dump button, the PRC is one that doesn't. I've tried attaching gas pipes to it but nothing flows :(\n      edit: also checked the sides, tried setting to input and output, tried configuring the pipe to pull\n\n      Reply",
+  "summary": null,
+  "sentiment": null
+}

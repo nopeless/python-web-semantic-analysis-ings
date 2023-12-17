@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-01-01..2015-07-02",
+  "title": "Why do city lights flicker from a distance? : r/askscience - Reddit",
+  "href": "https://www.reddit.com/r/askscience/comments/2r00f8/why_do_city_lights_flicker_from_a_distance/",
+  "body": "Hot air has lower density and thus lower refractive index than colder air, so a pocket of warmer air will slightly distort the path light takes from its source to your eye. If you were rather far away from the city lights, it's very well possible that the flickering comes from turbulent warmer regions of air between the lights and you.",
+  "readable_content": "- Niti40 (2023-12-08): Why do city lights flicker from a distance?  \n  - oss1x (2023-12-08): A city is constantly heating air (from sewers, buildings etc) which is then rising up. As these streams of warmer air are rather turbulent, they change paths all the time. Hot air has lower density and thus lower refractive index than colder air, so a pocket of warmer air will slightly distort the path light takes from its source to your eye. If you were rather far away from the city lights, it's very well possible that the flickering comes from turbulent warmer regions of air between the lights and you.",
+  "summary": null,
+  "sentiment": null
+}

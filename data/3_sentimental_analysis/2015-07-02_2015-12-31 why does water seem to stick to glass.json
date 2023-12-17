@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-07-02..2015-12-31",
+  "title": "why does water seem to stick to glass? : r/askscience - Reddit",
+  "href": "https://www.reddit.com/r/askscience/comments/3lzu5p/why_does_water_seem_to_stick_to_glass/",
+  "body": "Adhesion. Water \"seems\" to stick to glass because it does. I don't seem to notice this when washing dishes at home though. It certainly still does, but (a) possible you're looking at non-transparent dishes so you're not really noticing it, and (b) soap in the water will massively reduce the surface tension and reduce surface adhesion. 49.",
+  "readable_content": "- shadyelf (2015-09-22): why does water seem to stick to glass?\n    - Overunderrated: Adhesion. Water \"seems\" to stick to glass because it does.\n    - sud0c0de: The short answer is that glass--an amorphous compound containing primarily silicon and oxygen--tends to form something known as silanol on its surface. These silanol groups are Si-OH formed when oxygen atoms dangling from the surface of the SiO4 matrix react with moisture in the air. They form hydrogen bonds with liquid water, causing it to adhere to the surface of the glass very strongly. This won't happen as much with dishes and cookware because they often receive special coatings (e.g. PTFE/Teflon) specifically to prevent this adhesion.\n    - GodCarcass: Polarity of water by hydrogen bonding. It's kind of like a tiny weak magnet with a constantly changing positive and negative charge. Thus making it stick to its self and other objects, and giving rise to its surface tension.\n    - 404X: Because water is slightly charged, when around other water molecules they form a bond, not strong enough to be almost solid and almost impenetrable but enough that other molecules will stick together (or \"hold hands\".)\n    - ron_leflore: It's because your test tube is hydrophillic, which basically means that the water molecules interaction with the surface is energetically more favorable than water molecules interacting with themselves. If you don't want the water to stick, get hydrophobic test tubes.",
+  "summary": null,
+  "sentiment": null
+}

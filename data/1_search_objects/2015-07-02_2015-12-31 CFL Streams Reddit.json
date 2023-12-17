@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-07-02..2015-12-31",
+  "title": "CFL Streams - Reddit",
+  "href": "https://www.reddit.com/r/CFLStreams/",
+  "body": "For those wondering, typing the following 2 commands in Linux will get you NFL from r/nflstreams, assuming you named the file getcflurl.cgi. # cp getcflurl.cgi getnflurl.cgi # sed -i 's/cfl/nfl/g' getnflurl.cgi # sed -i 's/CFL/NFL/g' getnflurl.cgi. Then execute the resulting getnflurl.cgi and streams starting with nfl_* will show up. 12 comments."
+}

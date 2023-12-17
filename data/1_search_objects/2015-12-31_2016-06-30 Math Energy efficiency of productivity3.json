@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-12-31..2016-06-30",
+  "title": "[Math] Energy efficiency of productivity3 assemblers with ... - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/4phc78/math_energy_efficiency_of_productivity3/",
+  "body": "The most energy efficient setup is T3 assemblers with 3 efficiency3 modules and one speed3 module. So only 22.4 kJ per recipe second. meneldal2 \u2022 7 yr. ago. You can go lower if you put more beacons with speed and efficiency. Though the beacon cost is important as well."
+}

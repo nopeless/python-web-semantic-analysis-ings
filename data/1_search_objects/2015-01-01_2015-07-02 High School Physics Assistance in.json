@@ -1,0 +1,8 @@
+{
+  "query": "plastic straws",
+  "site": "reddit.com",
+  "time_range": "2015-01-01..2015-07-02",
+  "title": "[High School Physics] Assistance in finding the inner radius of a ...",
+  "href": "https://www.reddit.com/r/HomeworkHelp/comments/2vlwsq/high_school_physics_assistance_in_finding_the/",
+  "body": "Full Volume of straw (including outer radius): V = \u03c0 Ro 2 H Volume of liquid inside straw (using inner radius): V = \u03c0 Ri 2 H Equation relating inner and outer radii, where x is the thickness of the cylinder of plastic of the straw: Ri + x = Ro x = Ro - Rx Volume of plastic making up straw: V = \u03c0 (Ro - Ri) 2 H"
+}

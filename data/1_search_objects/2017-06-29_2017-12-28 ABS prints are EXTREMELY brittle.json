@@ -1,0 +1,8 @@
+{
+  "query": "plastic straws",
+  "site": "reddit.com",
+  "time_range": "2017-06-29..2017-12-28",
+  "title": "ABS prints are EXTREMELY brittle! : r/3Dprinting - Reddit",
+  "href": "https://www.reddit.com/r/3Dprinting/comments/6yxu8r/abs_prints_are_extremely_brittle/",
+  "body": "Hot end 240C. Bed 85C at first, increase to 110C after first layer. Would start with 110C if I had the patience. Nozzle 0.4mm, extrusion width 0.48mm (automatic) Extrusion multiplier 1.2. Retraction 1mm, 30mm/s. 2 outlines, 6 top and bottom layers. Brim of 20 lines, more for larger parts. 60mm/s speed, 50% for outline."
+}

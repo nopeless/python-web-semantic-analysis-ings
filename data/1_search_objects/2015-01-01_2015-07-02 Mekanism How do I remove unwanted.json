@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2015-01-01..2015-07-02",
+  "title": "Mekanism - How do I remove unwanted gas/fluid from a machine?",
+  "href": "https://www.reddit.com/r/feedthebeast/comments/37bage/mekanism_how_do_i_remove_unwanted_gasfluid_from_a/",
+  "body": "The usage looks like the following (just copied from Mekanism Wiki) \". Open the machine's GUI and pick up the gauge dropper as you would if you where moving it to a different inventory slot. Hover over the gauge you wish to interact with, and then do one of the following: Left Click: Will collect up to 1000mB of the gas/fluid and store it in ..."
+}

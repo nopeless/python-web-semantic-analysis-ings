@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2020-06-25..2020-12-24",
+  "title": "Pollution Factor Evolution Settings : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/i0e8vm/pollution_factor_evolution_settings/",
+  "body": "However the default pollution factor is only 9. This seems dreadfully low, what is the maximum value for this? Obviously it's 1000, but even on deathworld the maximum evolution factors are at 200. I previously used settings between 100 and 200 for all the factors and I did not find the biter evolution rate challenging enough.",
+  "readable_content": "VolatileDawn (2020-12-08): Pollution Factor Evolution Settings\nQuestion\nHello, I wish to play a long but reasonably challenging game of factorio. I want the biters to evolve very fast but only when they are exposed to pollution. However the default pollution factor is only 9. This seems dreadfully low, what is the maximum value for this? Obviously it's 1000, but even on deathworld the maximum evolution factors are at 200. I previously used settings between 100 and 200 for all the factors and I did not find the biter evolution rate challenging enough. These evolution settings are very opaque please inform me of the appropriate values. Thank you. Also if you have any good pollution settings let me know too.\n\n- paco7748 (2020-12-08): enemy nest freq/size/starting area, trees, desert, and available chokepoints all effect how challenging the game will feel, not just evolution factor. there are many ways to tweak your experience at map gen.\npersonally, I turn off time evolution and enemy expansion but triple evolution from killing nests and triple there size. Godspeed.",
+  "summary": null,
+  "sentiment": null
+}

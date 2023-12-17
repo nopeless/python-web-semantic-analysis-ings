@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2018-12-27..2019-06-27",
+  "title": "What's the best mask I can use for soldering? : r/AskElectronics - Reddit",
+  "href": "https://www.reddit.com/r/AskElectronics/comments/afun19/whats_the_best_mask_i_can_use_for_soldering/",
+  "body": "The cheapest mask that can actually do anything runs about $35-$45: a NIOSH OV/P100, such as this. N95 masks won't do much. They might filter out most smoke particulates, but the vapor from the flux will still be there. A fume extractor is going to be far more affordable than this."
+}

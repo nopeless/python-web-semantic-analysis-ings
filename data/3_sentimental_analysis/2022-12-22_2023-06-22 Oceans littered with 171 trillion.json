@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": null,
+  "time_range": "2022-12-22..2023-06-22",
+  "title": "Oceans littered with 171 trillion plastic pieces - BBC",
+  "href": "https://www.bbc.com/news/science-environment-64889284",
+  "body": "New estimates suggest that plastic pollution in the oceans has risen dramatically since 2005. ... More than 171 trillion pieces of plastic are now estimated to be floating in the world's oceans ...",
+  "readable_content": "- Hey Georgina Rannard (2023-03-08): BBC Climate and Science reporter. I see you've covered the recent estimate on plastic pollution in the world's oceans, with more than 171 trillion pieces of plastic now estimated to be present. Scientists warn that this number could nearly triple by 2040 if no action is taken.\n\nThe concentration of plastics in the oceans has significantly increased and, according to lead author Dr. Marcus Eriksen, this increase could be due to stronger legislation being replaced by voluntary agreements, the breakdown of plastics, or the fact that less data was collected.\n\nThe highest concentration of ocean plastic is currently in the Mediterranean Sea, with some large floating masses found elsewhere including the Great Pacific Garbage Patch.\n\nThe research emphasizes the need to focus on reducing the amount of plastic produced and used, rather than just cleaning up oceans and recycling plastics. This was published in the scientific journal PLOS ONE.",
+  "summary": "The post discusses the concerning increase in plastic pollution in the world's oceans and emphasizes the need to focus on reducing plastic production and usage. It highlights the urgency of taking action to prevent a significant rise in ocean plastic by 2040. The sentiment is a call for urgent action to address the plastic pollution crisis. Sentiment: 0.9",
+  "sentiment": 0.9
+}

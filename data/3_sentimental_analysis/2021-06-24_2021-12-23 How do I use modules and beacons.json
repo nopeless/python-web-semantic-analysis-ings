@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2021-06-24..2021-12-23",
+  "title": "How do I use modules and beacons effectively? : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/qdq1hv/how_do_i_use_modules_and_beacons_effectively/",
+  "body": "The typical thing to do is to put T3 productivity modules in anything that will take them (except miners and pumpjacks), and surround them by beacons using T3 speed modules. Beacons can only take speed and efficiency, and efficiency doesn't make sense as beacons use a lot of power and the efficiency modules don't affect the beacon power usage.",
+  "readable_content": "- BUSHVlPER (2021-12-08): How do I use modules and beacons effectively?  Question\n- todestan (2021-12-08): The three kinds of modules that are used most are T3 production, T3 speed, and T1 efficiency. The typical thing to do is to put T3 productivity modules in anything that will take them (except miners and pumpjacks), and surround them by beacons using T3 speed modules. Beacons can only take speed and efficiency, and efficiency doesn't make sense as beacons use a lot of power and the efficiency modules don't affect the beacon power usage.\n- triggerman602 (2021-12-08): You put productivity in absolutely everything you can and then surround your machines with as many speed moduled beacons as possible. Typically 8 or 12.\n- pepoluan (2021-12-08): Except pumpjacks. Someone did the calculations and pumpjacks are best with Speed, always & unconditionally.\n- darthbob88 (2021-12-08): Depends on just what you're trying to do, but in general-\n  - Productivity modules go in everything that can take them, speed modules go in everything else. Getting free stuff is always extremely useful.\n- DemonicLaxatives (2021-12-08): As everyone has stated already, productivity in everything that can accept it. Don't bother with efficiency, power, and pollution are irrelevant.\n- frumpy3 (2021-12-08): Calculate your MODULE EFFICIENCY\n  - in any beacon build, calculate the average number of beacons per machine, and calculate the average number of machines per beacon.\n- [deleted] (2021-12-08): You can look at some online calculators and deduce how you want to go. I am open to anyone who can correct mistakes in this post.",
+  "summary": null,
+  "sentiment": null
+}

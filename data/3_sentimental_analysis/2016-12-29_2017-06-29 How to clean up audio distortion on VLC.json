@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2016-12-29..2017-06-29",
+  "title": "How to clean up audio distortion on VLC Media PLayer?",
+  "href": "https://www.reddit.com/r/VideoEditing/comments/6gofnw/how_to_clean_up_audio_distortion_on_vlc_media/",
+  "body": "If there is at least about a second that you can identify as just noise (when nobody's speaking), you can try cleaning it up in Audacity (freeware). Select that part, choose Effect->Noise Reduction and click \"Get Noise Profile\". Now select everything, and invoke Noise Reduction again, that's it. The first time you do that, you give it an idea ...",
+  "readable_content": "- chuckz1487 (2016-12-08): How to clean up audio distortion on VLC Media Player?\n    I have a trial this upcoming week and the video I have has pretty shitty sound quality. Where and how should I mess with parameters to fix the audio? It has a lot of distortion and background noise. Its the audio from the back of a cop car. So there is traffic and city noise pollution. Please let me know, this would be greatly appreciated :)\n- 22Sharpe (2016-12-08): VLC is a player, not an audio editor. Cleaning up audio like that (especially if there is dialogue is consider) is no easy task and will require an actual editing program.",
+  "summary": null,
+  "sentiment": null
+}

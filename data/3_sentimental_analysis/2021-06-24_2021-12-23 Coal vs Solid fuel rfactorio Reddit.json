@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2021-06-24..2021-12-23",
+  "title": "Coal vs. Solid fuel : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/phdvp8/coal_vs_solid_fuel/",
+  "body": "Creating solid fuel from petroleum, refined by basic processing and gathered by a pumpjack emits 1.583 pollution per unit of solid fuel when Y = 1. In other words, that's 7.579 MJ per pollution. So burning coal is 3 times more efficient energy-wise and 1.33 times more efficient pollution-wise than basic oil processing into solid fuel.",
+  "readable_content": "- _xavius_ (2021-12-08): Making solid fuel from coal liquefaction is more efficient though.\n- P3tr0 (2021-12-08): Coal Liquifaction! In short you are practically producing free energy from coal into Solid Fuel/Rocket Fuel.\n- Lolwat420 (2021-12-08): That\u2019s really interesting, I\u2019ll have to try it out\n- cammcken (2021-12-08): <content>\n    - Lolwat420 (2021-12-08): This is awesome work! It confirms my suspicions, but I never delved into the pollution aspect of it.\n        - Theis99999 (2021-12-08): You are correct that coal is technically more power efficient. However either option is so massively power positive that it doesn't really matter, what matters is which resources you have available.\n        - 4wry_reddit (2021-12-08): Solid fuel can be a by-product from advanced oil refining/cracking, as it is a means to ensure that nothing backs up. You can always feed in any excess solid fuel into burner belts along with wood etc.",
+  "summary": null,
+  "sentiment": null
+}

@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2021-06-24..2021-12-23",
+  "title": "Coal vs. Solid fuel : r/factorio - Reddit",
+  "href": "https://www.reddit.com/r/factorio/comments/phdvp8/coal_vs_solid_fuel/",
+  "body": "Creating solid fuel from petroleum, refined by basic processing and gathered by a pumpjack emits 1.583 pollution per unit of solid fuel when Y = 1. In other words, that's 7.579 MJ per pollution. So burning coal is 3 times more efficient energy-wise and 1.33 times more efficient pollution-wise than basic oil processing into solid fuel."
+}

@@ -1,0 +1,11 @@
+{
+  "query": "plastic straws",
+  "site": "reddit.com",
+  "time_range": "2017-06-29..2017-12-28",
+  "title": "ABS prints are EXTREMELY brittle! : r/3Dprinting - Reddit",
+  "href": "https://www.reddit.com/r/3Dprinting/comments/6yxu8r/abs_prints_are_extremely_brittle/",
+  "body": "Hot end 240C. Bed 85C at first, increase to 110C after first layer. Would start with 110C if I had the patience. Nozzle 0.4mm, extrusion width 0.48mm (automatic) Extrusion multiplier 1.2. Retraction 1mm, 30mm/s. 2 outlines, 6 top and bottom layers. Brim of 20 lines, more for larger parts. 60mm/s speed, 50% for outline.",
+  "readable_content": "ProfessionalTrash (2017-12-08): ABS prints are EXTREMELY brittle!\nPLEASE HELP!\n\npixaal (2017-12-08): I've found with eSun ABS+ you absolutely have to print in an enclosure.... With the bed at 110C, air temperature gets up to about 50C and the ABS+ parts are now just as strong as regular ABS. The enclosure also means the bed can reach 110C, whereas before it could only get to ~85C. I haven't tried the non-plus eSun ABS, but I definitely prefer other regular ABS over eSun ABS+.\n\n- jinkside (2017-12-08): Do you have the fan on? If so, try turning it off. Also, smaller layer heights will generally be weaker. If you want strong parts, print with the highest layer height you're comfortable with. \n\n- [deleted] (2017-12-08): Doesn't look glossy enough for ABS. You sure it is? Wouldn't be the first time a cheap supplier mislabeled a spool.. toss some acetone on it, see if it melts. If not, it's not abs. I'd also recommend doing a temperature calibration tower, since you've no idea what temp works well with the mystery material.\n\n- Autistic_Brony666 (2017-12-08): If you don't absolutely need ABS, try out some PETG instead. It's got very similar mechanical properties, but it prints odorless and doesn't require a heated enclosure.\n\nProfessionalTrash (2017-12-08): Really wanted to try out ABS so I could mess around with acetone smoothing for props and other models that I want to be visually pleasing.",
+  "summary": null,
+  "sentiment": null
+}

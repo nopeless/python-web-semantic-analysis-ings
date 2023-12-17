@@ -1,0 +1,11 @@
+{
+  "query": "plastic straws",
+  "site": "reddit.com",
+  "time_range": "2015-01-01..2015-07-02",
+  "title": "[High School Physics] Assistance in finding the inner radius of a ...",
+  "href": "https://www.reddit.com/r/HomeworkHelp/comments/2vlwsq/high_school_physics_assistance_in_finding_the/",
+  "body": "Full Volume of straw (including outer radius): V = \u03c0 Ro 2 H Volume of liquid inside straw (using inner radius): V = \u03c0 Ri 2 H Equation relating inner and outer radii, where x is the thickness of the cylinder of plastic of the straw: Ri + x = Ro x = Ro - Rx Volume of plastic making up straw: V = \u03c0 (Ro - Ri) 2 H",
+  "readable_content": "pbandasiantime (2014-12-08): Aim: To determine the internal radius of a drinking straw. Apparatus: measuring cylinder, beaker, drinking straw, ruler, water. My teacher instructed our class to use these set apparatus to assist us in the lab. I am currently stomped on how to do this. I believe I am able to use more materials, excluding a micrometer gauge. Anybody able to assist me or give me an example on how to go about this lab? Thank you.\n\n- Alkalannar (2014-12-08): Measure the height of the straw. Fill it with water. Measure how much volume the water is. What's the volume of a cylinder? You know the cylinder's height, and it's volume\u2026.find the radius.\n\n- vrxz (2014-12-08): Full Volume of straw (including outer radius): V = \u03c0 Ro2 H Volume of liquid inside straw (using inner radius): V = \u03c0 Ri2 H Equation relating inner and outer radii, where x is the thickness of the cylinder of plastic of the straw: Ri + x = Ro x = Ro - Rx Volume of plastic making up straw: V = \u03c0 (Ro - Ri)2 H(Edited last equation to make it correct)",
+  "summary": "The conversation is focused on determining the internal radius of a drinking straw, with various commenters providing suggestions and equations to assist with the lab experiment. The overall sentiment of the conversation seems to be helpful and collaborative as individuals offer assistance and solutions to the problem. The tone is positive, with a focus on problem-solving and supporting one another. Sentiment: 0.8",
+  "sentiment": 0.8
+}

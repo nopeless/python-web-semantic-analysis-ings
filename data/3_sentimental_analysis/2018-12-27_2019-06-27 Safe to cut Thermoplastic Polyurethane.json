@@ -1,0 +1,11 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2018-12-27..2019-06-27",
+  "title": "Safe to cut Thermoplastic Polyurethane (TPU) : r/lasercutting - Reddit",
+  "href": "https://www.reddit.com/r/lasercutting/comments/agy9tx/safe_to_cut_thermoplastic_polyurethane_tpu/",
+  "body": "Any life near your ventilation outlet is at risk and this will also contribute to environmental pollution. Particulate left behind in vent system and within the machine could be hazardous if ingested. #1 can be mitigated by a few \"test fires\" while holding a fire extinguisher at ready, but the worst case is messy ...",
+  "readable_content": "- jds580s (2018-12-08): Safe to cut Thermoplastic Polyurethane (TPU)\n\nI'm getting some conflicting information when searching for safety information on laser cutting TPU.\n\nThese resources caution against cutting polyurethane due to HCN gas: \nhttp://www.materialseducation.org/educators/matedu-modules/docs/Laser_Cutter_Materials.pdf https://www.synrad.com/sites/default/files/2018-07/Laser%20Processing%20Guide%20%28Plastics%29%201.04_0.pdf\n\nWhile other sources call polyurethanes safe to cut or recommend it for laser cutting: \nhttps://www.lasercuttingshapes.com/materials/ https://www.eurolaser.com/materials/polyurethane-pur/\n\nWhen in doubt I'll opt not to cut it, but curious if anyone has additional insights.",
+  "summary": null,
+  "sentiment": null
+}

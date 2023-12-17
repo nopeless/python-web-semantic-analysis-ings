@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2020-06-25..2020-12-24",
+  "title": "[sim settlement's 2] what do the junk containers do?",
+  "href": "https://www.reddit.com/r/SimSettlements/comments/jpd9ma/sim_settlements_2_what_do_the_junk_containers_do/",
+  "body": "SS2 settlement building and production resources are stored by the settlers not in the workbench, so they can build and not steal your stuff unless you choose to give it to them... the junk containers increase the amount they can hold virtually for themselves. To expand on this: the settlement keeps a separate, virtual inventory for itself that ..."
+}

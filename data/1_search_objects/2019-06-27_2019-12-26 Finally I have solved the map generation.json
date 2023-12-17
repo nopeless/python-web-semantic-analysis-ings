@@ -1,0 +1,8 @@
+{
+  "query": "plastic pollution",
+  "site": "reddit.com",
+  "time_range": "2019-06-27..2019-12-26",
+  "title": "Finally I have solved the map generation BUG! : r/RimWorld - Reddit",
+  "href": "https://www.reddit.com/r/RimWorld/comments/czh9cf/finally_i_have_solved_the_map_generation_bug/",
+  "body": "This obviously wasn't possible with Permadeath because when you have that map, the only 3 options are \"save the game and go to menu\", \"save the game and exit from RW\", and these obviously overwrite your game with the empty map, or your can press Alt+F4, but when you will restart RW, the bug will be there another time (when it starts to happen ..."
+}
