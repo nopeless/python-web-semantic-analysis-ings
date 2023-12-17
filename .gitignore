@@ -1,5 +1,7 @@
 *.pdf
 ~$*
+~*.tmp
+*.docx
 
 # Logs
 logs
