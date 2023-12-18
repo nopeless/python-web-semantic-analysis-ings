@@ -1,4 +1,5 @@
 *.pdf
+!paper.pdf
 ~$*
 ~*.tmp
 *.docx
